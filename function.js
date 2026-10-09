@@ -6,4 +6,3 @@ function aa(){
 console.log("gvhv")
 let i =559;
 console.log(object)
-aa()
